@@ -1,0 +1,68 @@
+malicious			= kötücül
+counteracting			= önleme
+aspirant			= aday, uman kimse, talip
+paramount			= olağanüstü, üst düzey
+arbitration			= arabuluculuk yapma
+mitigate			= azaltmak
+traditionally 			= bildiğiniz üzere
+on behalf of			= adına, yararına, temsilen
+privilege			= imtiyaz, ayrıcalık
+boundary 			= sınır
+mount				= taşımak
+maintain			= sürdürmek
+idle				= başıboş, boşta çalışmak
+malfunction			= kötü çalışmak,arıza
+propensity			= istek,meyil
+dispatch			= sevk etmek, göndermek
+snip				= kırpmak, makasla kırpmak
+contending for			= için yarışmak
+contend				= uğraşmak, çarpışmak
+solely				= yalnızca
+correspond			= karşılık gelme
+comprehensive			= karşılık gelmek
+artefact			= insan eliyle yapılmış
+deteriorate			= bozulmak, kötüye gitmek
+intertwined			= birbirine dolanmış
+opted				= seçilmiş, tercih edilmiş
+seamlessly			= sorunsuz bir şekilde
+adversarial			= muhalif
+comprise			= kapsamak içermek
+diversity			= çeşitlilik
+intertwined			= sarılmış
+blurring			= bulandırma
+assortment			= sınıflandırma, karışım
+quantitatively			= nicelik bakımından
+qualitatively			= nitelik bakımından
+ill-posed			= kötü konumlanmış
+opted				= seçilmiş
+abrupt				= birdenbire oluveren, ani
+succinctly			= kısa ve öz bir şekilde
+prominent			= öne çıkan
+overzealous			= çok istekli
+guise				= kılık, kıyafet, giysi
+illicit				= yasadışı
+evil-doer			= suçlu, günahkar
+intrusion			= davetsiz gelme, ihlal
+notwithstanding			= buna rağmen, bağlı olmaksızın, gerçi, buna karşın
+albeit				= yine, fakat, -de olsa, -e rağmen
+intuitive			= sezgili
+prevalent			= yaygın, olagelen
+exploit				= faydalanmak, kendi çıkarı için kullanmak
+rather				= oldukça, daha iyisi, daha ziyade
+emit				= atmak, yayınlamak, belirtmek
+hypothesis			= hipotez
+proposal			= öneri, teklif, evlenme teklifi
+inequitable			= adaletsiz
+era				= çağ, devir
+chord				= tel, his, duygu
+debut (made his debut)		= sahneye çıkış
+affinity			= yakınlık, akrabalık
+boon				= nimet
+pave the way			= kolaylaştırmak
+deem				= kıyaslamak
+
+
+
+
+
+

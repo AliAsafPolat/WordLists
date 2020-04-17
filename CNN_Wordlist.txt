@@ -1,0 +1,49 @@
+ensemble		: birlik, topluluk
+gradient		: meyil, değişim ölçüsü,irtifa
+squash			: bastırmak, sıkışmak, sıkıştırmak
+converge		: bir noktaya yönelmek, birleşmek
+robustness		: sağlamlık, kuvvet
+tedious			: sıkıcı, bıktırıcı
+propagation		: yayılma, çoğalma
+succinctly		: kısa ve öz bir şekilde
+skeptical		: şüpheci, şüphe içinde
+deviate			: sapmak, yoldan çıkmak
+vibrant			: canlı, dolgun
+embrace			: kabul etmek
+diversity		: çeşitlilik
+daunting		: göz korkutucu, ürkütücü
+tailored		: uygun hale getirilmiş
+notoriously		: herkesin bildiği gibi(olumsuz anlamda)
+assess			: değer biçmek, hesaplamak
+quantitative		: miktar, sayısal
+scratch			: karalamak, kazımak
+fooled			: kanmak, kandırılmak
+subtle			: hemen göze çarpmayan, güç anlaşılan
+artifact		: insan eliyle yapılmış bir şey
+akin			: yakın, benzeyen, akraba
+pretext			: bahane,mazaret göstermek
+gamut			: takım, tümü
+benchmark		: değerlendirme, kalite testi
+renowned		: ünlü, anlı şanlı, meşhur, şöhretli
+immense  		: uçsuz bucaksız, harika
+ground truth		: kesin referans
+fancier			: meraklısına
+marginalize		: önem derecesini düşürmek
+inference 		: çıkarım, sonuç
+henceforth		: bu andan itibaren
+margin			: kenar boşluğu
+dominate		: hükmetmek, egemen olmak
+monochrome		: tek renkli resim
+footage			: kamera görüntüleri
+annotate		: açıklayıcı notlar eklemek
+intervention		: araya girme, müdahele
+robust			: güçlü, dirençli
+propagation		: yayılma
+elaborate		: özenle hazırlanmış
+metric			: ölçülü
+erroneous		: yalan yanlış, hatalı
+envisage		: tasavvur etmek, öngörmek
+benchmark		: değerlendirme
+
+
+
